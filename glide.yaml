@@ -1,0 +1,9 @@
+package: github.com/abhinav/github-mirror
+import:
+- package: github.com/google/go-github
+  subpackages:
+  - github
+- package: github.com/google/go-querystring
+  subpackages:
+  - query
+- package: github.com/jessevdk/go-flags

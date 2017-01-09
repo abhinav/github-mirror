@@ -1,0 +1,14 @@
+hash: 6e402833eb2e39a864e6281e0f3f533d072b192005249eb874f814c4571f375e
+updated: 2017-01-09T01:05:56.197135513-08:00
+imports:
+- name: github.com/google/go-github
+  version: dcda0b96bd591fbeb40dcaddec3fb40a7fcaca34
+  subpackages:
+  - github
+- name: github.com/google/go-querystring
+  version: 9235644dd9e52eeae6fa48efd539fdc351a0af53
+  subpackages:
+  - query
+- name: github.com/jessevdk/go-flags
+  version: 0648c820cd4e564706597268ae2d2c7d9e6900c6
+testImports: []
